@@ -14,7 +14,8 @@
 # 👋 Hi there, I'm Franchez.
 ## 🌱 I’m currently learning Software Engineering at ALX Africa.
 ### 🧠 READY TO GEEK OUT.
-#### ⚡ Fun fact: Anyone can learn how to code. All you need is GRIT. The goal is to improve everyday! 😊
+<!-- #### ⚡ Fun fact: Anyone can learn how to code. All you need is GRIT. The goal is to improve everyday! 😊 -->
+#### ⚡ Embrace the challenge: Anyone can unlock the world of coding. With determination as your compass, you hold the power to excel. The quest is to progress, one step at a time, every day! 😊
 
 ---
 
