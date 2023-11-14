@@ -30,7 +30,6 @@
   [<img align="left" alt="GitHub" width="26px" src="https://user-images.githubusercontent.com/3369400/139447912-e0f43f33-6d9f-45f8-be46-2df5bbc91289.png" style="padding-right:10px;" />]
   
  
-  <p align="center"> <img src="https://komarev.com/ghpvc/?username=OukoFranchez&label=Profile%20views&color=0e75b6&style=flat" alt="OukoFranchez" /> </p>
 </div>
 
 ---
@@ -41,3 +40,4 @@
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=OukoFranchez&theme=dark&background=000000)](https://git.io/streak-stats)
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=OukoFranchez&theme=radical)
+  <p align="center"> <img src="https://komarev.com/ghpvc/?username=OukoFranchez&label=Profile%20views&color=0e75b6&style=flat" alt="OukoFranchez" /> </p>
