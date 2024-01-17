@@ -21,6 +21,7 @@
 ---
 
 ### :hammer_and_wrench: Languages and Tools so far :
+<!-- generated from https://marwin1991.github.io/profile-technology-icons/ -->
 <div align="center">
 	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/192158954-f88b5814-d510-4564-b285-dff7d6400dad.png" alt="HTML" title="HTML"/></code>
 	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/183898674-75a4a1b1-f960-4ea9-abcb-637170a00a75.png" alt="CSS" title="CSS"/></code>
@@ -41,19 +42,6 @@
 	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" alt="Git" title="Git"/></code>
 	<code><img width="50" src="https://github.com/marwin1991/profile-technology-icons/assets/76662862/2481dc48-be6b-4ebb-9e8c-3b957efe69fa" alt="Linux" title="Linux"/></code>
 </div>
-<!-- <div> -->
-  <!-- <img src="https://user-images.githubusercontent.com/25181517/192158954-f88b5814-d510-4564-b285-dff7d6400dad.png" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp; -->
-  <!-- <img src="https://user-images.githubusercontent.com/25181517/183898674-75a4a1b1-f960-4ea9-abcb-637170a00a75.png"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp; -->
-  <!-- <img src="https://user-images.githubusercontent.com/25181517/117447155-6a868a00-af3d-11eb-9cfe-245df15c9f3f.png" title="javascript" alt="JS" width="40" height="40"/>&nbsp; -->
-  <!-- <img src="https://user-images.githubusercontent.com/25181517/192106070-46255bcf-65e6-4c6b-a296-bf8d0d8fb2a7.png" title="C" alt="C" width="40" height="40"/>&nbsp; -->
-  <!-- <img src="https://user-images.githubusercontent.com/25181517/183423507-c056a6f9-1ba8-4312-a350-19bcbc5a8697.png" title="Python" alt="Python" width="40" height="40"/>&nbsp; -->
-  <!-- <img src="https://user-images.githubusercontent.com/25181517/183423775-2276e25d-d43d-4e58-890b-edbc88e915f7.png" title="Flask" alt="Flask" width="40" height="40"/>&nbsp; -->
-  <!-- <img src="https://user-images.githubusercontent.com/25181517/192158606-7c2ef6bd-6e04-47cf-b5bc-da2797cb5bda.png" title="BASH" alt="BASH" width="40" height="40"/>&nbsp; -->
-  <!-- <img src="https://user-images.githubusercontent.com/25181517/183345125-9a7cd2e6-6ad6-436f-8490-44c903bef84c.png" title="Nginx" alt="Nginx" width="40" height="40"/>&nbsp; -->
-  <!-- <img src="https://github.com/marwin1991/profile-technology-icons/assets/76662862/2481dc48-be6b-4ebb-9e8c-3b957efe69fa" title="Linux" alt="Linux" width="40" height="40"/>&nbsp; -->
-  
- 
-<!-- </div> -->
 
 ---
 
