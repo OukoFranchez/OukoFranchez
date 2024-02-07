@@ -20,7 +20,7 @@
 
 ---
 
-### :hammer_and_wrench: Languages and Tools so far :
+### :hammer_and_wrench: Languages and Tools
 <!-- generated from https://marwin1991.github.io/profile-technology-icons/ -->
 <div align="center">
 	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/192158954-f88b5814-d510-4564-b285-dff7d6400dad.png" alt="HTML" title="HTML"/></code>
